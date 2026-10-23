@@ -1,0 +1,27 @@
+Superstore Project - Business Questions
+
+1. How is the business doing overall?
+   KPIs: Total Sales, Total Profit, Profit Margin %, Total Orders,
+   Total Customers, Average Order Value
+
+2. Is the business growing?
+   KPIs: Sales and Profit by year, Year-over-Year growth %
+
+3. Are there seasonal patterns?
+   KPI: Sales by month (busy and slow periods)
+
+4. Which categories and sub-categories bring the most sales and profit?
+   KPIs: Sales, Profit, and Profit Margin % by Category and Sub-Category
+
+5. Which sub-categories lose money?
+   KPI: Sub-categories with negative total profit
+
+6. Do discounts hurt profit?
+   KPI: Profit Margin % by discount level (None, Low, Medium, High)
+
+7. Which regions and states perform best and worst?
+   KPIs: Sales, Profit, and Profit Margin % by Region and State
+
+8. Which customer segments are the most valuable, and how fast do we deliver?
+   KPIs: Sales, Profit, and Average Order Value by Segment;
+   Average Delivery Days by Ship Mode
